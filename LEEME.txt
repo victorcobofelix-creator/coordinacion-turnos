@@ -1,0 +1,9 @@
+INSTRUCCIONES — Reparar page.tsx
+==================================
+1) Copia este archivo dentro de la carpeta de tu proyecto coordinacion-turnos.
+   Ejemplo: C:\Users\Usuario\Desktop\coordinacion-turnos\
+
+2) Haz doble clic en: Reparar-page-tsx.bat
+   - Sobrescribirá app\page.tsx con una versión limpia y válida.
+
+3) Luego, inicia normalmente con: Iniciar (doble clic).bat
